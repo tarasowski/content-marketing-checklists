@@ -1,7 +1,7 @@
 # 06 - Promotion
 #2 write/checklists#
 
-- [ | Publish an article on a well-visited topic related website such as cio.com, specific medium publications, or any other site that your target group is reading daily
+- [ ] Publish an article on a well-visited and topic related website such as cio.com, specific medium publications, or any other site that your target audience is reading daily
 - [ ] Publish to Blog
 - [ ] Publish on my Facebook/Twitter profile
 - [ ] Publish to Clever.do Facebook Page
