@@ -8,4 +8,4 @@ My summaries how to write kick-ass content.
 
 ## Why?
 
-* It's the 4th kind of luck (luck from unique character) that becomes deterministic. It's an algorithm for succes. [See More](https://nav.al/how-to-get-rich)
+* It's the 4th kind of luck (luck from unique character) that becomes deterministic. It's an algorithm for success. [See More](https://nav.al/how-to-get-rich)
