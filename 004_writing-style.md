@@ -20,6 +20,17 @@ Learn how brains organize ideas. Readers comprehend “the boy hit the ball” q
 That’s it. You just learned 80% of the rules of good writing. You’re welcome.
 ```
 
+How to write in plain English [Source](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
+``` 
+Keep your sentences short
+Prefer active verbs
+Use 'you' and 'we'
+Use words that are appropriate for the reader
+Don't be afraid to give instructions
+Avoid nominalisations
+Use lists where appropriate
+``` 
+
 > **Haters are a fact of life.** Not everyone is going to be a fan of you or the content you put out. I see negative comments all the time. Bottom line (and it’s tough to hear): there’s always someone who won’t like you. But, at the end of the day, it’s not going to matter. Gary Vaynerchuk [My Thesis on How to Handle Feedback](https://www.garyvaynerchuk.com/thesis-handle-feedback/)  
 
 > No one wants to read your half-assed shit. No one owes you anything. Start with a story, spend lots of time, share lessons learned or stop it now. Write for your first reader.   
