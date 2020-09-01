@@ -50,7 +50,7 @@ Use this checklist for writing: [Google Docs - create and edit documents online,
 - [ ] **Simplification check:** Write as simple a possible 
 - [ ] **Don’t sell:** don’t try to be a sneaky salesman. Just write good content, people will buy it anyway if the stuff is what people really want.
 - [ ] **Make it short:** Remove everything you can to make it short and simple. Also try not too put too many emotions into posts. [7 Lessons From 100+ Failed Startups – ThinkGrowth.org](https://thinkgrowth.org/7-lessons-from-100-failed-startups-2db31984867a)
-- [ ] **Be bold:** don’t hedge
+- [ ] **Be bold:** don’t hedge, don't be wishy-washy, life is short.
 - [ ] **Include Hero image:** use https://unsplash.com/ OR https://pixabay.com/
 - [ ] **Storytelling:** Always start with a story (how to, infographic). 
 * Then there was the one day I lost a million dollars.
