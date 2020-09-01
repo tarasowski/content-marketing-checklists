@@ -43,6 +43,7 @@ http://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html
 
 Use this checklist for writing: [Google Docs - create and edit documents online, for free.](https://docs.google.com/document/d/1Xooj7ixxuqOpybuxcp4euFuHjQsJlNrkmLyrJzIykCM/edit)
 
+- [ ] **Use pictures**: In a sense that you can relate your thoughts to pictures other people can imagine.
 - [ ] **Quotes and Citations:** Build-in quotes from other experts to increase the credibility of the content
 - [ ] **Recognition - Own style**: Find something like Ben Horowitz who is starting with rap rhymes his content. So everyone can recognise the own style. 
 - [ ] **First draft:** of anything is shit. Write everything down what you think, don’t care about grammar, don’t care about typos. Don’t try to be perfect, just write as much as possible. First draft needs to be very bad at spelling, grammer.
