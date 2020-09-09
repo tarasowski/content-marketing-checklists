@@ -43,6 +43,7 @@ http://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html
 
 Use this checklist for writing: [Google Docs - create and edit documents online, for free.](https://docs.google.com/document/d/1Xooj7ixxuqOpybuxcp4euFuHjQsJlNrkmLyrJzIykCM/edit)
 
+- [ ] **FOMO**: It feels like buying bitcoin in 2015 for 220EU and selling it today for 8,700EU
 - [ ] **Use pictures**: In a sense that you can relate your thoughts to pictures other people can imagine.
 - [ ] **Quotes and Citations:** Build-in quotes from other experts to increase the credibility of the content
 - [ ] **Recognition - Own style**: Find something like Ben Horowitz who is starting with rap rhymes his content. So everyone can recognise the own style. 
@@ -90,6 +91,7 @@ Use this checklist for writing: [Google Docs - create and edit documents online,
 - [ ] **Share experience:** not opinions
 - [ ] **Say thank you:** to every comment you get (make things that don’t scale)
 - [ ] TK: write w/o Interruption if something needs researched further. Easy to find since there are no words with TK 
+- [ ] **Stadium Pitch:** Ich habe neulich ziemlich krasse Value Prop von einem Zahnarzt gesehen. Die machen Youtube Werbung und die fängt ungefähr so an. Wussten Sie, dass wenn Sie kaputte Zähne haben ihre Lebensdauer verkürzt wird? Alter egal was die danach erzählt haben, ich habe denen alles abgekauft. Das ist so ein krasses Statement / Value prop. Überleg dir doch was in diese Richtung, ich bin mir sicher es ist viel besser als sich auf Features (Vitamine) etc. zu konzentrieren. Ich bin mir sicher, du kannst sowas ähnliches für dein Produkt ausdenken z.B. Wussten Sie wenn Sie Vitamine A,B,C, X, Y nicht nehmen ihre Zähne rausfallen werden? Wollen Sie gesunde Zähne haben? usw. Du musst mit harten Fakten kommen, sonst wirst du ewig lange rumdümpeln.
 
 > Find what makes you feel. Then, share it with the reader. Ernest Hemingway  
 
