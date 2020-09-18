@@ -44,6 +44,7 @@ http://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html
 Use this checklist for writing: [Google Docs - create and edit documents online, for free.](https://docs.google.com/document/d/1Xooj7ixxuqOpybuxcp4euFuHjQsJlNrkmLyrJzIykCM/edit)
 
 - [ ] **FOMO**: It feels like buying bitcoin in 2015 for 220EU and selling it today for 8,700EU
+- [ ] **No Tautologies**: Customer first, business efficiency, leadership, customer segmentation blablabla. (https://github.com/tarasowski/hec/blob/master/business-strategy/southwest.md)
 - [ ] **Use pictures**: In a sense that you can relate your thoughts to pictures other people can imagine.
 - [ ] **Quotes and Citations:** Build-in quotes from other experts to increase the credibility of the content
 - [ ] **Recognition - Own style**: Find something like Ben Horowitz who is starting with rap rhymes his content. So everyone can recognise the own style. 
